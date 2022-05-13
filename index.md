@@ -4,7 +4,7 @@
 
 ### Latest Projects
 
-[Project 1 Title](/sample_page)
+[Simple Steps on Data Clean, Corrections and EDA on Booking Datasets](/sample_page)
 <img src="images/dummy_2.png?raw=true"/>
 
 ---
