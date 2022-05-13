@@ -1,9 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Sebastian Barrios # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my portfolio!
+  I am self-taught in Data Science and Statistics. 
   <br><br>
-  Second description 
+  Much of my prior knowledge in mathematics and statistics comes from my studies in Economics. 
+  <br><br>
+  Here I am sharing my projects, trying to expose the implementation of the knowledge
+  I get in this long way about learning statistical models, data processing and AI.
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
