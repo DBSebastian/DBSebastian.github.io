@@ -5,7 +5,7 @@
 ### Latest Projects
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_1.png?raw=true"/>
+<img src="images/dummy_2.png?raw=true"/>
 
 ---
 
