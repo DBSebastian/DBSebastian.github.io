@@ -19,4 +19,4 @@ and self-taught in Data Science and Statistics.
 ## Technologys i'm interested
 
 
-<img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/>
