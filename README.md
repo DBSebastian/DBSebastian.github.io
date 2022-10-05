@@ -18,4 +18,5 @@ and self-taught in Data Science and Statistics.
 
 ## Technologys i'm interested
 
-https://badgen.net/badge/icon/postgresql?icon=postgresql&label
+
+<img src=https://badgen.net/badge/icon/postgresql?icon=postgresql&label&style=flat-square&color=blue" alt=""/>
