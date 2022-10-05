@@ -4,7 +4,7 @@
 
 ### Latest Projects
 
-[Simple Steps on Data Clean, Corrections and EDA on Booking Datasets](/booking_final.ipynb)
+[Simple Steps on Data Clean, Corrections and EDA on Booking Datasets](/booking_final)
 <img src="images/dummy_2.png?raw=true"/>
 
 ---
