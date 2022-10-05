@@ -4,7 +4,7 @@
 
 ### Latest Projects
 
-[Simple Steps on Data Clean, Corrections and EDA on Booking Datasets](/booking_final)
+[Simple Steps on Data Clean, Corrections and EDA on Booking Datasets]("https://github.com/dbsebastian/dbsebastian.github.io/blob/main/booking_final.ipynb")
 <img src="images/dummy_2.png?raw=true"/>
 
 ---
