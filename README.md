@@ -30,14 +30,12 @@ and self-taught in Data Science and Statistics.
 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<img src="" alt=""/>  
-<img src="" alt=""/>  
-<img src="" alt=""/>  
-<img src="" alt=""/>  
-<img src="" alt=""/>  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+[![SQLAlchemy](https://img.shields.io/badge/SQLalchemy-red.svg?style=for-the-badge&logo=SQLalchemy&logoColor=white)
+
