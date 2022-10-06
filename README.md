@@ -24,7 +24,15 @@ and self-taught in Data Science and Statistics.
   
 <img src="https://img.shields.io/badge/Matplotlib-1890db.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"  alt=""/>  
 
+<img src="https://img.shields.io/badge/Seaborn-777BB4?style=for-the-badge&logo=Seaborn&logoColor=white" alt=""/>  
+
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt=""/>
+
+<img src="" alt=""/>  
+<img src="" alt=""/>  
+<img src="" alt=""/>  
+<img src="" alt=""/>  
+<img src="" alt=""/>  
 
 
 
