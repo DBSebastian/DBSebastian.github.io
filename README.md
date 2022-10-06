@@ -26,7 +26,8 @@ and self-taught in Data Science and Statistics.
   
 <img src="https://img.shields.io/badge/Matplotlib-%9999f2.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"  alt=""/>  
 9999f2  
-<img src="https://img.shields.io/badge/Matplotlib-%575ff7.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"  alt=""/>  
-575ff7
+
+<img src="https://img.shields.io/badge/Matplotlib-%7257f7.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"  alt=""/>  
+7257f7
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/>
